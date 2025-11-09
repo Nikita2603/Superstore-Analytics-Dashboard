@@ -1,9 +1,12 @@
 # Superstore-Analytics-Dashboard
 1. Project Title
+
 Superstore Analytics Dashboard using Power BI
 2. Project Overview
+
 This Power BI project visualizes key sales and profit insights from a Superstore dataset. The dashboard enables business users to track performance, analyze product profitability, monitor return rates, and compare year-over-year growth.
 3. Dataset Description
+
 -Source: Superstore Sales Dataset  
 -Time Period: 2020 – 2023
 -Key Columns: Order Date, Sales, Profit, Category, Sub-Category, Segment, Region, and Returns
