@@ -1,4 +1,3 @@
-## Superstore-Analytics-Dashboard
 ##1. Project Title
 **Superstore Analytics Dashboard using Power BI**
 
